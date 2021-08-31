@@ -1,0 +1,25 @@
+h1{ padding : 10px;
+    background-color: green;
+    color : white; 
+    text-align: center; }
+
+
+
+    h2 p{
+        color: rgb(61, 61, 141);
+    }
+nav{
+    overflow: hidden;
+    background-color: palegreen;
+   
+   
+}  
+nav a{
+    color: brown;
+        padding: 30px;
+        align-self: auto;
+
+}
+h3 p{
+    text-decoration: greenyellow;
+}
